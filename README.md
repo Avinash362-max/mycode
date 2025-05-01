@@ -26,10 +26,14 @@ Arrange all records in ascending order by reporting_date
  
 Then I import this cleaning and meaningful dataset in POWER BI. Along with BI toll, I have created two meaningful DASHBOARDs. First one is about findings as below…
  
+![11](https://github.com/user-attachments/assets/4243c1ce-fd3e-45c2-af5f-6301bd86b8ec)
 
 And second one is about final conclusion as below…
- 
+
+ ![22](https://github.com/user-attachments/assets/e5ac06f7-80eb-40fa-899e-e1f8a3a9137b)
+
 And at last my final conclusion is that…
+
 •	We can see that, every county has almost same range of cases.
 •	Every pollutant type has almost same range of cases.
 •	Also all diseases has almost same range of cases.
@@ -38,28 +42,28 @@ And at last my final conclusion is that…
 •	So it’s necessary to take some action, some care and some changes in farming and soil management as below..
 
 Responsible Waste Management
-Reduce, Reuse, Recycle  
-Minimize waste and actively    participate in recycling and reuse programs.
-Proper Disposal
-Ensure hazardous waste, including industrial and medical waste, is handled and disposed of correctly to prevent leaching into the soil. 
+
+	Reduce, Reuse, Recycle  
+		Minimize waste and actively    participate in recycling and reuse programs.
+	Proper Disposal
+		Ensure hazardous waste, including industrial and medical waste, is handled and disposed of correctly to prevent leaching into the soil. 
 Sustainable Agricultural Practices
-Organic Farming
-Embrace organic farming practices, which minimize the use of synthetic fertilizers and pesticides, and instead utilize natural methods like compost and crop rotation	
+	Organic Farming
+		Embrace organic farming practices, which minimize the use of synthetic fertilizers and pesticides, and instead utilize natural methods like compost and crop rotation	
 
-Crop Rotation
-Rotate crops to improve soil health, reduce pest and disease pressure, and minimize the need for chemical interventions
-Soil Conservation
-Implement soil conservation techniques like terracing, contour plowing, and windbreaks to prevent erosion and protect topsoil. 
+	Crop Rotation
+		Rotate crops to improve soil health, reduce pest and disease pressure, and minimize the need for chemical interventions
+	Soil Conservation
+		Implement soil conservation techniques like terracing, contour plowing, and windbreaks to prevent erosion and protect topsoil. 
 Minimizing Chemical Usage
-Reduce Chemical Fertilizers and Pesticides
-Minimize the use of synthetic fertilizers and pesticides, as they can contaminate the soil and water. 
-Use Natural Alternatives	
-Instead of chemical fertilizers and pesticides, utilize organic fertilizers like compost and natural pest control methods. 
-				Proper Waste Management:
-Dispose of unused chemicals properly and avoid allowing them to enter the soil or water. 
-
-
+	Reduce Chemical Fertilizers and Pesticides
+		Minimize the use of synthetic fertilizers and pesticides, as they can contaminate the soil and water. 
+	Use Natural Alternatives	
+		Instead of chemical fertilizers and pesticides, utilize organic fertilizers like compost and natural pest control methods. 
+Proper Waste Management:
+	Dispose of unused chemicals properly and avoid allowing them to enter the soil or water. 
+ 
 Industrial and Urban Planning
-Implement robust waste management systems in industries and urban areas to prevent pollutants from entering the soil. 
+	Implement robust waste management systems in industries and urban areas to prevent pollutants from entering the soil. 
 
 
