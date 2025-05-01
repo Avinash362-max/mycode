@@ -47,29 +47,29 @@ Make it Round
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Responsible Waste Management
 
-	## Reduce, Reuse, Recycle  
+	-- Reduce, Reuse, Recycle  
 		Minimize waste and actively participate in recycling and reuse programs.
-	## Proper Disposal
+	-- Proper Disposal
 		Ensure hazardous waste, including industrial and medical waste, is handled
   		and disposed of correctly to prevent leaching into the soil. 
-# ustainable Agricultural Practices
-	## Organic Farming
+# Sustainable Agricultural Practices
+	-- Organic Farming
 		Embrace organic farming practices, which minimize the use of synthetic fertilizers
   		and pesticides, and instead utilize natural methods like compost and crop rotation	
 
-	## Crop Rotation
+	-- Crop Rotation
 		Rotate crops to improve soil health, reduce pest and disease pressure, and minimize the need for chemical interventions
-	## Soil Conservation
+	-- Soil Conservation
 		Implement soil conservation techniques like terracing, contour plowing, and windbreaks to prevent erosion and protect topsoil. 
 # Minimizing Chemical Usage
-	## Reduce Chemical Fertilizers and Pesticides
+	-- Reduce Chemical Fertilizers and Pesticides
 		Minimize the use of synthetic fertilizers and pesticides, as they can contaminate the soil and water. 
-	## Use Natural Alternatives	
+	-- Use Natural Alternatives	
 		Instead of chemical fertilizers and pesticides, utilize organic fertilizers like compost and natural pest control methods. 
 # Proper Waste Management:
-	Dispose of unused chemicals properly and avoid allowing them to enter the soil or water. 
+	-- Dispose of unused chemicals properly and avoid allowing them to enter the soil or water. 
  
 # Industrial and Urban Planning
-	Implement robust waste management systems in industries and urban areas to prevent pollutants from entering the soil. 
+	-- Implement robust waste management systems in industries and urban areas to prevent pollutants from entering the soil. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
