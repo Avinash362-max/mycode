@@ -1,14 +1,16 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------
- Soil Pollution and Associated Health Impacts
+# Soil Pollution and Associated Health Impacts
 ---------------------------------------------------------------------------------------------------------------------------------------------
-# About
+## About
+---------------------------------------------------------------------------------------------------------------------------------------------
 Here I got this dataset at KAGGLE dataset platform, in Excel format. This dataset contains 3000 synthetic records simulating real-world scenarios of soil pollution and related diseases. It captures environmental, agricultural, and demographic variables to analyse correlations between soil contamination and human health outcomes. 
 Then I import this dataset in SQL Server Management Studio for cleaning and checking purpose. Now let’s start Analysis Process. At first I give a name for dataset as SOIL
 Soil pollution refers to the contamination of soil with anomalous concentrations of toxic substances.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Let’s see what exact in dataset.
 
-![4](https://github.com/user-attachments/assets/f395b88b-a29e-4228-944b-f4af0b39510d)
+![123](https://github.com/user-attachments/assets/5fe3c9b2-af7f-4654-9eab-2b7b9266ecd9)
+
 Now check any null value’s column by column…
 
 ![1](https://github.com/user-attachments/assets/9c9babb0-c3f1-49fb-9ccb-07c013008c87)
