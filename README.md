@@ -4,7 +4,7 @@ Then I import this dataset in SQL Server Management Studio for cleaning and chec
 Soil pollution refers to the contamination of soil with anomalous concentrations of toxic substances.
 
 Let’s see what exact in dataset.
- 
+ https://github.com/Avinash362-max/mycode/commit/a01b2f97a7b964b6b62963f94f198c6a1483cc3b
 
 
 
