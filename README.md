@@ -4,42 +4,25 @@ Then I import this dataset in SQL Server Management Studio for cleaning and chec
 Soil pollution refers to the contamination of soil with anomalous concentrations of toxic substances.
 
 Let’s see what exact in dataset.
+
 ![4](https://github.com/user-attachments/assets/f395b88b-a29e-4228-944b-f4af0b39510d)
 Now check any null value’s column by column…
+
 ![1](https://github.com/user-attachments/assets/9c9babb0-c3f1-49fb-9ccb-07c013008c87)
 Check any duplicate value…
+
 ![2](https://github.com/user-attachments/assets/9f65d3fc-6968-4fad-b3c8-827cd688e867)
 
   
 It has been seeing that some column has long decimal numbers...
 Make it Round
- 
+
+ ![3](https://github.com/user-attachments/assets/b908f349-d51f-4c5e-b27f-30d717d92188)
+
 Arrange all records in ascending order by reporting_date 
-Now retrieve some meaningful, important data from whole dataset.
-REGION WISE TOTAL CASES
- 
-COUNTRY WISE TOTAL CASES
- 
 
+![4](https://github.com/user-attachments/assets/d1d3031c-c62f-46e5-aa3e-5a0552964e37)
 
-POLLYTANT TYPE AND TOTAL CASES
- 
-FARMING PRACTICE AND TOTAL CASES
- 
-NEARBY INDUSTRIES AND TOTAL CASES
- 
-DISEASE TYPE AND TOTAL CASES
- 
-DISEASES SEVIRITY AND TOTAL CASES
- 
-HEALTH SYMPTOMS AND TOTAL CASES
- 
-MALE FEMALE RATIO AND TOTAL CASES
- 
-MITIGATION MEASURE AND TOTAL CASES
- 
-
-CASE RESOLVED AND PENDING
  
 Then I import this cleaning and meaningful dataset in POWER BI. Along with BI toll, I have created two meaningful DASHBOARDs. First one is about findings as below…
  
